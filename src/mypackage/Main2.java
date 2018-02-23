@@ -28,7 +28,7 @@ public class Main2 {
 //		System.out.println(student.getName());
 //		System.out.println(student.getDepartment());
 //		System.out.println(student.getContact());
-		System.out.println(student.toString());
+		
 		System.out.println(student.toString());
 	}
 
